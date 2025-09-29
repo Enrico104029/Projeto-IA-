@@ -1,8 +1,0 @@
-# Dataset
-
-## Tmdb_5000_movies.csv
-- Este arquivo contém informações detalhadas sobre 5000 filmes, como título, gêneros, orçamento, popularidade, e sinopse.
-
-## Tmdb_5000_credits.csv
-- Este arquivo lista os créditos de elenco e equipe para os mesmos 5000 filmes, incluindo nomes de atores, diretores e produtores
-
