@@ -1,5 +1,16 @@
 # Grupo 
 
+Enrico Najjar Galdeano
+  10402924 
+
+  
+Gabriel Shihao Chen Yin
+10408981
+   
+   
+Samuel Lopes Pereira
+10403767
+    
 ## Link do video
 https://youtu.be/gaJOpItDZog?si=2qL3cG24XFjqSAoV
 
