@@ -1,3 +1,8 @@
+# Grupo 
+
+## Link do video
+https://youtu.be/gaJOpItDZog?si=2qL3cG24XFjqSAoV
+
 # Dataset
 
 ### Tmdb_5000_movies.csv
